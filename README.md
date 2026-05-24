@@ -39,7 +39,6 @@ switch2.
 •  Circuit is tested for all possible combination of switch positions.
 
 
-<img width="916" height="517" alt="image" src="https://github.com/user-attachments/assets/df2d1826-3f47-498c-b763-f74a3a8f5a27" />
 
 CIRCUIT DIAGRAM:
 
